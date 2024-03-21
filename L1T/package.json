@@ -1,0 +1,28 @@
+{
+  "name": "mynodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "mynodejs",
+    "version": "0.0.1",
+    "email": "idrisveliev@gmail.com",
+    "description": "Project Description",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/IdrisVeli1987"
+    },
+    "author": "react-developer",
+    "license": "N/A"
+  },
+  "license": "ISC"
+}
